@@ -1,4 +1,4 @@
- color-picker-game
+## color-picker-game
 
 This is a simple Color Guessing game developed using HTML, CSS, and JavaScript.
 
@@ -31,3 +31,5 @@ Click on the squares to guess the correct color based on the RGB value displayed
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 
+![image](https://github.com/sakapanchu/color-picker-game/assets/117504870/5c4fb65d-432f-41e8-9aee-82b00af9ff4b)
+![image](https://github.com/sakapanchu/color-picker-game/assets/117504870/e9509c5d-3f17-4afe-a488-e3564300489d)
