@@ -31,6 +31,9 @@ Click on the squares to guess the correct color based on the RGB value displayed
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
+##page on live 
+
+https://silly-madeleine-0af48a.netlify.app
 
 ![image](https://github.com/sakapanchu/color-picker-game/assets/117504870/5c4fb65d-432f-41e8-9aee-82b00af9ff4b)
 
