@@ -31,7 +31,7 @@ Click on the squares to guess the correct color based on the RGB value displayed
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-##page on live 
+## page on live 
 
 https://silly-madeleine-0af48a.netlify.app
 
